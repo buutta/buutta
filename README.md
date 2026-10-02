@@ -19,14 +19,6 @@
 
 <br>
 
-### 🎵 Сейчас слушаю в Яндекс Музыке
-
-<div align="center">
-  <img src="https://yandex-music-github-profile.vercel.app/api?username=buutta" alt="Yandex Music" />
-</div>
-
-<br>
-
 ### 📊 Статистика и активность
 
 <div align="center">
