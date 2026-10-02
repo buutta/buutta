@@ -1,31 +1,53 @@
+<div align="center">
+  <h1>Привет 👋</h1>
+</div>
+
+<br>
+
+> ### 🧑‍💻
+> Это учебный профиль
+
+<br>
+
+### 🛠 Мой стек технологий
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-4DB6AC?style=for-the-badge&logo=python&logoColor=121212&labelColor=4DB6AC" />
+  <img src="https://img.shields.io/badge/Docker-9E9E9E?style=for-the-badge&logo=docker&logoColor=121212&labelColor=9E9E9E" />
+  <img src="https://img.shields.io/badge/Figma-4DB6AC?style=for-the-badge&logo=figma&logoColor=121212&labelColor=4DB6AC" />
+</p>
+
+<br>
+
+### 🎵 Сейчас слушаю в Яндекс Музыке
+
+<div align="center">
+  <img src="https://yandex-music-github-profile.vercel.app/api?username=buutta" alt="Yandex Music" />
+</div>
+
+<br>
+
+### 📊 Статистика и активность
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buutta&show_icons=true&hide_border=true&bg_color=121212&title_color=4DB6AC&icon_color=4DB6AC&text_color=FAFAFA&border_radius=16" />
+</div>
+
+<br>
+
+### 📬 Связаться со мной
+
+<p align="center">
+  <a href="https://t.me/bbuutta">
+    <img src="https://img.shields.io/badge/Telegram-4DB6AC?style=for-the-badge&logo=telegram&logoColor=121212" />
+  </a>
+  <a href="mailto:edrog.com@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-9E9E9E?style=for-the-badge&logo=gmail&logoColor=121212" />
+  </a>
+</p>
+
+<br>
 
 <div align="center">
   
-  <!-- Заголовок-карточка в стиле панели ChromeOS -->
-  <img src="https://demolab.com" alt="ChromeOS Header" />
-
-  <br/>
-
-  <!-- Компактная карточка со статистикой в скругленном стиле (замените ВАШ_НИКНЕЙМ) -->
-  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
-  
-  <br/><br/>
-
-  <!-- Панель инструментов (Стек технологий) -->
-  <h3>Стек технологий</h3>
-  
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="C#" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Windows" />
-
-  <br/><br/>
-  <hr width="50%" size="1" color="#888888" />
-  <br/>
-
-  <!-- Аскетичные кнопки для связи -->
-  <a href="https://t.me">
-    <img src="https://shields.io" alt="Telegram" />
-  </a>
-
 </div>
